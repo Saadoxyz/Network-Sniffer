@@ -1,28 +1,10 @@
-# Network Sniffer — README
+# Network Sniffer
 
 [![Project Status](https://img.shields.io/badge/status-experimental-yellow)](https://github.com/)
 [![Language](https://img.shields.io/badge/language-Python-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 > Lightweight Python-based network sniffer for educational use — captures and displays IP-layer traffic (source/destination IPs, protocol, payload snippets). Designed for learning and demonstration; **not** a production packet-capture appliance.
-
----
-
-## Table of Contents
-
-* Overview
-* Features
-* Architecture & How it Works
-* Requirements
-* Installation
-* Usage
-* Configuration options
-* Examples (sample output)
-* Troubleshooting
-* Ethics, Safety & Legal
-* Contributing
-* License
-* Acknowledgements
 
 ---
 
@@ -204,11 +186,6 @@ Suggested improvements:
 
 ---
 
-## License
-
-This project is released under the MIT License. See `LICENSE` for details.
-
----
 
 ## Acknowledgements
 
